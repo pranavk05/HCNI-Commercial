@@ -465,8 +465,6 @@ img.aligncenter {
 }
 
 
-/* form button */
-
 .formButton{
 	font-size: 25px;
 	border-radius: 20px;
@@ -476,15 +474,14 @@ img.aligncenter {
 	background-color: aliceblue;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 100px;
-}
 
-/* form */
+}
 
 
 /* form  */
 
 .containers{
-    background-color: rgb(255, 187, 131);
+    background-color: rgb(152, 167, 255);
     padding: 50px;
     margin: 50px;
 }
