@@ -1,0 +1,20 @@
+{
+    "name": "hcni",
+    "version": "1.0.0",
+    "description": "Official website of The HCNI Commercial",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js",
+      "dev": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "Abheer Mehrotra",
+    "license": "ISC",
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "express": "^4.17.1",
+      "nodemailer": "^6.7.0"
+    }
+  }
+  
