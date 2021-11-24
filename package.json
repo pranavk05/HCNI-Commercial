@@ -9,7 +9,7 @@
       "dev": "nodemon server.js"
     },
     "keywords": [],
-    "author": "Abheer Mehrotra",
+    "author": "Pranav Kapoor",
     "license": "ISC",
     "dependencies": {
       "dotenv": "^10.0.0",
